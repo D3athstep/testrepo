@@ -7,3 +7,4 @@ clean data
 chunk it
 embed it
 give  prompts
+Make a beautiful front end for it and deploy it on vercel.
